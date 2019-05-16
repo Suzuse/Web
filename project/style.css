@@ -32,10 +32,10 @@ html, body{
 
 }
 .carousel-caption h3{
-	font-size: 150%;
+	font-size: 200%;
 	font-weight: bold;
 	text-shadow: 1px 1px 25px #000;
-	padding-bottom: 1rem; 
+	padding-bottom: 1%; 
 }
 .jumbotron {
    padding: 1rem;

@@ -1,0 +1,33 @@
+body{
+   background-color: #127a08;
+   margin-top: 10px;
+   margin-right: 10px;
+   margin-left: 10px;
+   margin-bottom: 10px;
+   width: 1500px;
+   height: 600px;
+   
+}
+header h1{
+	font-size: 60px;
+	font-style: bold;
+}
+main{
+	font-size: 30px;
+}
+#box1{
+	background-color: #db0f08;
+	height: 180px;
+	width: 80;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+	padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+#para{
+	font-size: 30px;
+	
+}
